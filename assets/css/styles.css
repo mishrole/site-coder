@@ -2,5 +2,12 @@
 	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
+}
+
+.input-box {
+
+	width: 300px;
+	height: 100px;
 }
 
